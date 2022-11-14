@@ -1,2 +1,2 @@
-# BotDiscord_Test
+# BotDiscord
 Code test to initialize a bot on Discord

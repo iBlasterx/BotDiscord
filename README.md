@@ -1,2 +1,3 @@
 # BotDiscord
-Code test to initialize a bot on Discord
+Project to create an interactive bot on Discord
+Use: JavaScript 
